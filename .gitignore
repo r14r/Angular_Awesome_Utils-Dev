@@ -1,0 +1,7 @@
+**/.env.d
+
+/node_modules
+package-lock.json
+**/.env.d
+**/.env
+
